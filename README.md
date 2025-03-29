@@ -1,6 +1,6 @@
 👋 Hi, I’m @AngelSantiagoAcosta
 
-🚀 Data Analyst | Software Engineer | Machine Learning Enthusiast
+🚀 Data Analyst | Data Engineer | Machine Learning Enthusiast
 
 I’m passionate about transforming data into strategic insights and building scalable solutions to solve complex problems. My expertise lies in data engineering, automation, machine learning, and full-stack development.
 
